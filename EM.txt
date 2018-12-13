@@ -1,0 +1,586 @@
+Factorial # ?
+10
+
+#################### 1 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #1:
+(A) Heads: 2.2457446305046824, Tails: 2.2457446305046824
+(B) Heads: 2.754255369495318, Tails: 2.754255369495318
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #2:
+(A) Heads: 7.244869655090484, Tails: 0.804985517232276
+(B) Heads: 1.7551303449095166, Tails: 0.19501448276772407
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #3:
+(A) Heads: 5.8677372640731456, Tails: 1.4669343160182864
+(B) Heads: 2.132262735926855, Tails: 0.5330656839817137
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #4:
+(A) Heads: 1.4086245353850375, Tails: 2.1129368030775564
+(B) Heads: 2.5913754646149627, Tails: 3.887063196922444
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #5:
+(A) Heads: 4.530505811293877, Tails: 1.9416453476973758
+(B) Heads: 2.4694941887061224, Tails: 1.058354652302624
+
+Probability of Heads for set A: [2.2457446305046824, 7.244869655090484, 5.8677372640731456, 1.4086245353850375, 4.530505811293877]
+Sum ==> 21.29748189634723
+
+Probability of Tails for set A: [2.2457446305046824, 0.804985517232276, 1.4669343160182864, 2.1129368030775564, 1.9416453476973758]
+Sum ==> 8.572246614530178
+
+Probability of Heads for set B: [2.754255369495318, 1.7551303449095166, 2.132262735926855, 2.5913754646149627, 2.4694941887061224]
+Sum ==> 11.702518103652775
+
+Probability of Tails for set B: [2.754255369495318, 0.19501448276772407, 0.5330656839817137, 3.887063196922444, 1.058354652302624]
+Sum ==> 8.427753385469824
+
+==============================These are the new INITIALS==============================
+
+0.7130122354005161
+0.5813393083136627
+
+#################### 2 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #6:
+(A) Heads: 1.4790966238168115, Tails: 1.4790966238168115
+(B) Heads: 3.5209033761831887, Tails: 3.5209033761831887
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #7:
+(A) Heads: 8.851249737789326, Tails: 0.983472193087703
+(B) Heads: 0.14875026221067364, Tails: 0.01652780691229707
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #8:
+(A) Heads: 7.561602477078445, Tails: 1.8904006192696112
+(B) Heads: 0.4383975229215556, Tails: 0.1095993807303889
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #9:
+(A) Heads: 0.43420757252687936, Tails: 0.651311358790319
+(B) Heads: 3.5657924274731205, Tails: 5.348688641209681
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #10:
+(A) Heads: 5.833276565992853, Tails: 2.4999756711397945
+(B) Heads: 1.1667234340071466, Tails: 0.5000243288602058
+
+Probability of Heads for set A: [1.4790966238168115, 8.851249737789326, 7.561602477078445, 0.43420757252687936, 5.833276565992853]
+Sum ==> 24.159432977204318
+
+Probability of Tails for set A: [1.4790966238168115, 0.983472193087703, 1.8904006192696112, 0.651311358790319, 2.4999756711397945]
+Sum ==> 7.5042564661042395
+
+Probability of Heads for set B: [3.5209033761831887, 0.14875026221067364, 0.4383975229215556, 3.5657924274731205, 1.1667234340071466]
+Sum ==> 8.840567022795685
+
+Probability of Tails for set B: [3.5209033761831887, 0.01652780691229707, 0.1095993807303889, 5.348688641209681, 0.5000243288602058]
+Sum ==> 9.495743533895762
+
+==============================These are the new INITIALS==============================
+
+0.7630011979639946
+0.48213445095526636
+
+#################### 3 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #11:
+(A) Heads: 0.830779527807149, Tails: 0.830779527807149
+(B) Heads: 4.169220472192851, Tails: 4.169220472192851
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #12:
+(A) Heads: 8.473142997114271, Tails: 0.9414603330126968
+(B) Heads: 0.5268570028857293, Tails: 0.058539666987303264
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #13:
+(A) Heads: 6.743252922360411, Tails: 1.6858132305901028
+(B) Heads: 1.2567470776395893, Tails: 0.3141867694098973
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #14:
+(A) Heads: 0.24934885716084276, Tails: 0.37402328574126414
+(B) Heads: 3.7506511428391573, Tails: 5.625976714258736
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #15:
+(A) Heads: 4.491181458428862, Tails: 1.9247920536123693
+(B) Heads: 2.508818541571139, Tails: 1.075207946387631
+
+Probability of Heads for set A: [0.830779527807149, 8.473142997114271, 6.743252922360411, 0.24934885716084276, 4.491181458428862]
+Sum ==> 20.787705762871536
+
+Probability of Tails for set A: [0.830779527807149, 0.9414603330126968, 1.6858132305901028, 0.37402328574126414, 1.9247920536123693]
+Sum ==> 5.756868430763582
+
+Probability of Heads for set B: [4.169220472192851, 0.5268570028857293, 1.2567470776395893, 3.7506511428391573, 2.508818541571139]
+Sum ==> 12.212294237128464
+
+Probability of Tails for set B: [4.169220472192851, 0.058539666987303264, 0.3141867694098973, 5.625976714258736, 1.075207946387631]
+Sum ==> 11.243131569236418
+
+==============================These are the new INITIALS==============================
+
+0.7831244762576011
+0.5206596690227012
+
+#################### 4 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #16:
+(A) Heads: 0.6368245843211839, Tails: 0.6368245843211839
+(B) Heads: 4.363175415678816, Tails: 4.363175415678816
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #17:
+(A) Heads: 8.746773110753747, Tails: 0.9718636789726385
+(B) Heads: 0.25322688924625325, Tails: 0.028136321027361473
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #18:
+(A) Heads: 7.184222105821188, Tails: 1.796055526455297
+(B) Heads: 0.8157778941788116, Tails: 0.2039444735447029
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #19:
+(A) Heads: 0.14350903431126988, Tails: 0.21526355146690482
+(B) Heads: 3.8564909656887303, Tails: 5.784736448533096
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #20:
+(A) Heads: 4.843045599463373, Tails: 2.0755909711985887
+(B) Heads: 2.1569544005366263, Tails: 0.9244090288014113
+
+Probability of Heads for set A: [0.6368245843211839, 8.746773110753747, 7.184222105821188, 0.14350903431126988, 4.843045599463373]
+Sum ==> 21.55437443467076
+
+Probability of Tails for set A: [0.6368245843211839, 0.9718636789726385, 1.796055526455297, 0.21526355146690482, 2.0755909711985887]
+Sum ==> 5.695598312414613
+
+Probability of Heads for set B: [4.363175415678816, 0.25322688924625325, 0.8157778941788116, 3.8564909656887303, 2.1569544005366263]
+Sum ==> 11.445625565329237
+
+Probability of Tails for set B: [4.363175415678816, 0.028136321027361473, 0.2039444735447029, 5.784736448533096, 0.9244090288014113]
+Sum ==> 11.304401687585388
+
+==============================These are the new INITIALS==============================
+
+0.7909870088576948
+0.5031038177707183
+
+#################### 5 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #21:
+(A) Heads: 0.5614807814257532, Tails: 0.5614807814257532
+(B) Heads: 4.438519218574247, Tails: 4.438519218574247
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #22:
+(A) Heads: 8.681615679208429, Tails: 0.9646239643564921
+(B) Heads: 0.31838432079157003, Tails: 0.03537603564350778
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #23:
+(A) Heads: 7.01434234819669, Tails: 1.7535855870491726
+(B) Heads: 0.9856576518033103, Tails: 0.24641441295082758
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #24:
+(A) Heads: 0.1278386607223943, Tails: 0.19175799108359146
+(B) Heads: 3.8721613392776058, Tails: 5.808242008916409
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #25:
+(A) Heads: 4.550100930564543, Tails: 1.950043255956233
+(B) Heads: 2.449899069435456, Tails: 1.0499567440437667
+
+Probability of Heads for set A: [0.5614807814257532, 8.681615679208429, 7.01434234819669, 0.1278386607223943, 4.550100930564543]
+Sum ==> 20.93537840011781
+
+Probability of Tails for set A: [0.5614807814257532, 0.9646239643564921, 1.7535855870491726, 0.19175799108359146, 1.950043255956233]
+Sum ==> 5.421491579871242
+
+Probability of Heads for set B: [4.438519218574247, 0.31838432079157003, 0.9856576518033103, 3.8721613392776058, 2.449899069435456]
+Sum ==> 12.06462159988219
+
+Probability of Tails for set B: [4.438519218574247, 0.03537603564350778, 0.24641441295082758, 5.808242008916409, 1.0499567440437667]
+Sum ==> 11.578508420128758
+
+==============================These are the new INITIALS==============================
+
+0.7943044229459946
+0.5102802204983434
+
+#################### 6 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #26:
+(A) Heads: 0.5336214751493763, Tails: 0.5336214751493763
+(B) Heads: 4.466378524850623, Tails: 4.466378524850623
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #27:
+(A) Heads: 8.721502643182088, Tails: 0.9690558492424541
+(B) Heads: 0.27849735681791216, Tails: 0.030944150757545794
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #28:
+(A) Heads: 7.089149664207371, Tails: 1.7722874160518427
+(B) Heads: 0.9108503357926294, Tails: 0.22771258394815735
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #29:
+(A) Heads: 0.11534715043064364, Tails: 0.17302072564596546
+(B) Heads: 3.8846528495693566, Tails: 5.826979274354035
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #30:
+(A) Heads: 4.614423149570786, Tails: 1.9776099212446225
+(B) Heads: 2.385576850429215, Tails: 1.022390078755378
+
+Probability of Heads for set A: [0.5336214751493763, 8.721502643182088, 7.089149664207371, 0.11534715043064364, 4.614423149570786]
+Sum ==> 21.074044082540265
+
+Probability of Tails for set A: [0.5336214751493763, 0.9690558492424541, 1.7722874160518427, 0.17302072564596546, 1.9776099212446225]
+Sum ==> 5.425595387334261
+
+Probability of Heads for set B: [4.466378524850623, 0.27849735681791216, 0.9108503357926294, 3.8846528495693566, 2.385576850429215]
+Sum ==> 11.925955917459737
+
+Probability of Tails for set B: [4.466378524850623, 0.030944150757545794, 0.22771258394815735, 5.826979274354035, 1.022390078755378]
+Sum ==> 11.574404612665742
+
+==============================These are the new INITIALS==============================
+
+0.7952577659215998
+0.5074797002442438
+
+#################### 7 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #31:
+(A) Heads: 0.5249961814925782, Tails: 0.5249961814925782
+(B) Heads: 4.475003818507422, Tails: 4.475003818507422
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #32:
+(A) Heads: 8.710595660980626, Tails: 0.9678439623311808
+(B) Heads: 0.28940433901937285, Tails: 0.03215603766881921
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #33:
+(A) Heads: 7.061090025770267, Tails: 1.7652725064425667
+(B) Heads: 0.938909974229734, Tails: 0.2347274935574335
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #34:
+(A) Heads: 0.11391476938910128, Tails: 0.17087215408365192
+(B) Heads: 3.886085230610899, Tails: 5.829127845916348
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #35:
+(A) Heads: 4.568695191884519, Tails: 1.9580122250933651
+(B) Heads: 2.431304808115481, Tails: 1.0419877749066346
+
+Probability of Heads for set A: [0.5249961814925782, 8.710595660980626, 7.061090025770267, 0.11391476938910128, 4.568695191884519]
+Sum ==> 20.97929182951709
+
+Probability of Tails for set A: [0.5249961814925782, 0.9678439623311808, 1.7652725064425667, 0.17087215408365192, 1.9580122250933651]
+Sum ==> 5.386997029443343
+
+Probability of Heads for set B: [4.475003818507422, 0.28940433901937285, 0.938909974229734, 3.886085230610899, 2.431304808115481]
+Sum ==> 12.020708170482909
+
+Probability of Tails for set B: [4.475003818507422, 0.03215603766881921, 0.2347274935574335, 5.829127845916348, 1.0419877749066346]
+Sum ==> 11.613002970556657
+
+==============================These are the new INITIALS==============================
+
+0.7956861863169415
+0.5086255010373356
+
+#################### 8 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #36:
+(A) Heads: 0.5215239707358406, Tails: 0.5215239707358406
+(B) Heads: 4.478476029264159, Tails: 4.478476029264159
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #37:
+(A) Heads: 8.716546381447877, Tails: 0.9685051534942086
+(B) Heads: 0.2834536185521233, Tails: 0.03149484650579148
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #38:
+(A) Heads: 7.0728280867184825, Tails: 1.7682070216796206
+(B) Heads: 0.9271719132815172, Tails: 0.2317929783203793
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #39:
+(A) Heads: 0.11230688742731926, Tails: 0.1684603311409789
+(B) Heads: 3.8876931125726806, Tails: 5.831539668859021
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #40:
+(A) Heads: 4.579829073343412, Tails: 1.9627838885757483
+(B) Heads: 2.420170926656588, Tails: 1.037216111424252
+
+Probability of Heads for set A: [0.5215239707358406, 8.716546381447877, 7.0728280867184825, 0.11230688742731926, 4.579829073343412]
+Sum ==> 21.00303439967293
+
+Probability of Tails for set A: [0.5215239707358406, 0.9685051534942086, 1.7682070216796206, 0.1684603311409789, 1.9627838885757483]
+Sum ==> 5.3894803656263965
+
+Probability of Heads for set B: [4.478476029264159, 0.2834536185521233, 0.9271719132815172, 3.8876931125726806, 2.420170926656588]
+Sum ==> 11.99696560032707
+
+Probability of Tails for set B: [4.478476029264159, 0.03149484650579148, 0.2317929783203793, 5.831539668859021, 1.037216111424252]
+Sum ==> 11.6105196343736
+
+==============================These are the new INITIALS==============================
+
+0.7957951179130364
+0.5081848185461413
+
+#################### 9 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #41:
+(A) Heads: 0.520529718695205, Tails: 0.520529718695205
+(B) Heads: 4.479470281304795, Tails: 4.479470281304795
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #42:
+(A) Heads: 8.714755859977826, Tails: 0.9683062066642029
+(B) Heads: 0.2852441400221739, Tails: 0.0316937933357971
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #43:
+(A) Heads: 7.068384742056607, Tails: 1.7670961855141518
+(B) Heads: 0.9316152579433931, Tails: 0.23290381448584827
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #44:
+(A) Heads: 0.11219372829652524, Tails: 0.16829059244478786
+(B) Heads: 3.8878062717034747, Tails: 5.831709407555212
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #45:
+(A) Heads: 4.572989985758354, Tails: 1.9598528510392947
+(B) Heads: 2.4270100142416453, Tails: 1.0401471489607053
+
+Probability of Heads for set A: [0.520529718695205, 8.714755859977826, 7.068384742056607, 0.11219372829652524, 4.572989985758354]
+Sum ==> 20.988854034784517
+
+Probability of Tails for set A: [0.520529718695205, 0.9683062066642029, 1.7670961855141518, 0.16829059244478786, 1.9598528510392947]
+Sum ==> 5.384075554357642
+
+Probability of Heads for set B: [4.479470281304795, 0.2852441400221739, 0.9316152579433931, 3.8878062717034747, 2.4270100142416453]
+Sum ==> 12.011145965215482
+
+Probability of Tails for set B: [4.479470281304795, 0.0316937933357971, 0.23290381448584827, 5.831709407555212, 1.0401471489607053]
+Sum ==> 11.615924445642356
+
+==============================These are the new INITIALS==============================
+
+0.7958484082642723
+0.508363743636018
+
+#################### 10 ITERATION ###################
+Enter the number of Heads:
+5
+Enter the number of tails:
+5
+Recurrence #46:
+(A) Heads: 0.5201050612101062, Tails: 0.5201050612101062
+(B) Heads: 4.479894938789894, Tails: 4.479894938789894
+
+Enter the number of Heads:
+9
+Enter the number of tails:
+1
+Recurrence #47:
+(A) Heads: 8.715656145810033, Tails: 0.9684062384233371
+(B) Heads: 0.2843438541899659, Tails: 0.031593761576662875
+
+Enter the number of Heads:
+8
+Enter the number of tails:
+2
+Recurrence #48:
+(A) Heads: 7.070211044057656, Tails: 1.767552761014414
+(B) Heads: 0.929788955942345, Tails: 0.23244723898558625
+
+Enter the number of Heads:
+4
+Enter the number of tails:
+6
+Recurrence #49:
+(A) Heads: 0.11198075942183597, Tails: 0.16797113913275397
+(B) Heads: 3.888019240578164, Tails: 5.832028860867246
+
+Enter the number of Heads:
+7
+Enter the number of tails:
+3
+Recurrence #50:
+(A) Heads: 4.574855449125591, Tails: 1.9606523353395389
+(B) Heads: 2.4251445508744096, Tails: 1.0393476646604614
+
+Probability of Heads for set A: [0.5201050612101062, 8.715656145810033, 7.070211044057656, 0.11198075942183597, 4.574855449125591]
+Sum ==> 20.992808459625223
+
+Probability of Tails for set A: [0.5201050612101062, 0.9684062384233371, 1.767552761014414, 0.16797113913275397, 1.9606523353395389]
+Sum ==> 5.38468753512015
+
+Probability of Heads for set B: [4.479894938789894, 0.2843438541899659, 0.929788955942345, 3.888019240578164, 2.4251445508744096]
+Sum ==> 12.007191540374777
+
+Probability of Tails for set B: [4.479894938789894, 0.031593761576662875, 0.23244723898558625, 5.832028860867246, 1.0393476646604614]
+Sum ==> 11.61531246487985
+
+==============================These are the new INITIALS==============================
+
+0.7958605496066485
+0.5082946133781533
+
+FINAL ANSWER
+
+Press any key to continue . . .
